@@ -115,10 +115,10 @@ int endfunc(int e,int a){
     bar(0,0,640,470);
     system("cls");
     if(a == 0){
-        printf("You died outside the boundary!!!\n");
+        printf("Anda Menabrak Penyangga Batas!!!\n");
     }
     else if(a== 1){
-        printf("You died into yourself!!!\n");
+        printf("Anda Memakan diri anda sendiri!!!\n");
     }
     printf("Your score is : %d\n", e);
     getch();
