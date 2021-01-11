@@ -12,6 +12,9 @@ live peacefully in bali
 and here is my first milestone project 
 
 Social Media
-*instagram [Instagram](https://www.instagram.com/wibawasydny/)
-*facebook [Facebook](https://www.facebook.com/profile.php?id=100004134614764)
-*twitter [Twitter](https://twitter.com/wibawasydny)
+- instagram [Instagram](https://www.instagram.com/wibawasydny/)
+
+- facebook [Facebook](https://www.facebook.com/profile.php?id=100004134614764)
+
+- twitter [Twitter](https://twitter.com/wibawasydny)
+
